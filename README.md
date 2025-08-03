@@ -1,40 +1,38 @@
 # 💳 Banking System (C++ Console Application)
 
-A simple console-based banking system built using *C++*, showcasing core concepts like file handling and object-oriented programming.
+A menu-driven console application that simulates core banking operations such as account creation, deposit, withdrawal, and balance inquiry. Built using C++ with file handling and object-oriented programming concepts.
 
 ## 🚀 Features
-- Create new bank accounts
-- Deposit and withdraw money
-- Check account balance
-- Persistent storage using file I/O
-- Menu-driven UI via terminal
+- Create and modify bank accounts
+- Deposit and withdraw funds
+- Display balance and account details
+- Delete and update customer records
+- Persistent data storage via binary file (account.dat)
 
 ## 🛠 Tech Stack
-- C++
-- File I/O
-- OOP (Classes, Encapsulation)
+- Language: C++
+- Concepts: OOP (Classes), File I/O, CLI
 
 ## 🧪 Sample Menu
 
-1. Create Account
-2. Deposit Amount
-3. Withdraw Amount
-4. Display Account Details
-5. Exit
+1. NEW ACCOUNT
+2. DEPOSIT AMOUNT
+3. WITHDRAW AMOUNT
+4. BALANCE ENQUIRY
+5. ACCOUNT HOLDER LIST
+6. CLOSE ACCOUNT
+7. MODIFY ACCOUNT
+8. EXIT
 
 
 
 ## 💻 How to Run
 
-1. Clone the repository
+1. *Compile the code*  
    ```bash
-   git clone https://github.com/Subhangi69/Banking-System.git
+   g++ banking_system.cpp -o banking_system
 
-2. Compile the program
+2. Run the program
 
-g++ banking_system.cpp -o banking_system
-
-
-3. Run it
-
-./banking_system
+./banking_system    # Linux/Mac  
+banking_system.exe  # Windows
