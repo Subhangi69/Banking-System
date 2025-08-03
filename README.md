@@ -28,11 +28,10 @@ A menu-driven console application that simulates core banking operations such as
 
 ## 💻 How to Run
 
-1. *Compile the code*  
-   ```bash
-   g++ banking_system.cpp -o banking_system
+1. Click on bank pp.cpp
+2. Download the file using " Download raw file" , option on top right corner
+3. Open a compiler like VS Code, and open this downloaded file .
+4. Run/Compile
 
-2. Run the program
 
-./banking_system    # Linux/Mac  
-banking_system.exe  # Windows
+
