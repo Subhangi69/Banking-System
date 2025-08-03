@@ -3,18 +3,6 @@
 A menu-driven console application that simulates core banking operations such as account creation, deposit, withdrawal, and balance inquiry. Built using C++ with file handling and object-oriented programming concepts.
 
 ## 🚀 Features
-- Create and modify bank accounts
-- Deposit and withdraw funds
-- Display balance and account details
-- Delete and update customer records
-- Persistent data storage via binary file (account.dat)
-
-## 🛠 Tech Stack
-- Language: C++
-- Concepts: OOP (Classes), File I/O, CLI
-
-## 🧪 Sample Menu
-
 1. NEW ACCOUNT
 2. DEPOSIT AMOUNT
 3. WITHDRAW AMOUNT
@@ -23,8 +11,6 @@ A menu-driven console application that simulates core banking operations such as
 6. CLOSE ACCOUNT
 7. MODIFY ACCOUNT
 8. EXIT
-
-
 
 ## 💻 How to Run
 
