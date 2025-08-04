@@ -1,6 +1,6 @@
 # 💳 Banking System (C++ Console Application)
 
-A menu-driven console application that simulates core banking operations. Built using C++ with file handling and object-oriented programming concepts.
+A menu-driven console application that simulates core banking operations. Built using C++ with file handling and OOP concepts.
 
 ## 🚀 Features
 1. NEW ACCOUNT
