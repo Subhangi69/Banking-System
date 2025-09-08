@@ -16,8 +16,13 @@ A menu-driven console application that simulates core banking operations. Built 
 
 1. Click on bank pp.cpp
 2. Download the file using " Download raw file" , option on top right corner
-3. Open a compiler like VS Code, and open this downloaded file .
-4. Run/Compile
+3. Unzip the file .
+4. Open the file "bank pp.cpp" using DEV C++
+5. Compile and Run
+
+## 📺 Video -
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
 
 
 
